@@ -1,4 +1,4 @@
-  <a>
+  <a href="https://www.linkedin.com/in/soysergiogonza-frontend/">
     <img src="play.svg" alt="Banner Image">
   </a>
 
