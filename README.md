@@ -1,54 +1,62 @@
-  <a href="https://www.linkedin.com/in/soysergiogonza-frontend/">
+  <a href="https://www.sergiogonzalez.tech/">
     <img src="play.svg" alt="Banner Image">
   </a>
 
+<div>
 <a href="https://www.linkedin.com/in/soysergiogonza-frontend/">
-<img src="
-https://img.shields.io/badge/Sergio%20Gonz%C3%A1lez%20S%C3%A1nchez-blue?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsoysergiogonza-frontend%2F
-" alt="LinkedIn Badge">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
 </a>
 
-## Sobre mí
-Soy un desarrollador apasionado por la tecnología y siempre estoy buscando aprender algo nuevo.
 
-## Habilidades técnicas
-- Lenguajes de programación: Java, Python, JavaScript
-- Herramientas de desarrollo: IntelliJ IDEA, Git, GitHub
-- Metodologías: Agile, Scrum
+<a href="https://twitter.com/soysergiogonza">
+<img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="LinkedIn Badge">
+</a>
+</div>
 
-## Proyectos destacados
-- [Nombre del proyecto](link al proyecto): Breve descripción del proyecto.
+## About Me
 
-## Contacto
-Si quieres contactarme, puedes enviarme un correo a miemail@ejemplo.com o seguirme en [LinkedIn](link a tu perfil de LinkedIn).
+👋 Hello! I'm Sergio González Sánchez, a dedicated Professional Technician in Computer Systems with over 2 years of 
+hands-on experience as a Frontend Developer. I am passionate about crafting seamless user experiences and delving into the intricacies of Frontend Architecture.
 
+### Skills:
+
+💻 Frontend: React, Next, JavaScript, TypeScript\
+🌐 API Integration: REST, Axios, GraphQL\
+🚀 State Management: Redux, React-Query\
+🧪 Testing: Playwright\
+🏗️ Architecture: Clean Architecture, Design Patterns\
+
+### Professional Highlights:
+
+🛠️ Developed a wide range of components, applications, and web pages.\
+🔗 Established robust database connections and implemented user authentication.\
+🌐 Integrated API services for dynamic and interactive applications.\
+🎓 Currently pursuing continuous learning in Technology at SENA, with a focus on Software Architecture.\
+Freelance Experience:
+
+### 🚀 Side Project:
+Founder of a project dedicated to guiding and advising Software Development students. Primarily 
+focused on Bootcamp students and those studying Software Development Techniques or Technologies.\
+**Mission:**
+Empowering the next generation of developers by providing tailored guidance, teaching relevant technologies, and ensuring a supportive learning environment.
+
+Why Choose Me?
+
+🔍 Results-oriented with a knack for problem-solving and innovation.
+🤝 Firm believer in the power of teamwork to achieve ambitious goals.
+🎓 Passionate about teaching and committed to fostering the development of future IT specialists.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
-![Nuxt](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs)
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 
-![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
-![UnoCSS](https://img.shields.io/badge/-UnoCSS-%23333333?style=flat-square&logo=unocss)
-![WindiCSS](https://img.shields.io/badge/-WindiCSS-%23000000?style=flat-square&logo=tailwind-css&&logoColor=48B0F1)
 
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
-![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
-![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
-![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
