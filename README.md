@@ -1,17 +1,11 @@
-<p align="center">
   <a>
     <img src="play.svg" alt="Banner Image">
   </a>
-</p>
 
-<p>
 <a href="https://www.linkedin.com/in/soysergiogonza-frontend/">
-<img src="https://img.shields.io/badge/-Sergio González Sánchez%20-blue?style=plastic&amp;labelColor=blue&amp;
-logo=LinkedIn&amp;
-link=https://www.linkedin.com/in/soysergiogonza-frontend/" alt="LinkedIn Badge">
-</a>
-<a href="https://twitter.com/soysergiogonza">
-<img src="https://img.shields.io/badge/-Sergio González Sánchez-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/soysergiogonza" alt="Twitter Badge">
+<img src="
+https://img.shields.io/badge/Sergio%20Gonz%C3%A1lez%20S%C3%A1nchez-blue?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsoysergiogonza-frontend%2F
+" alt="LinkedIn Badge">
 </a>
 
 ## Sobre mí
