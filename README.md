@@ -13,6 +13,7 @@ link=https://www.linkedin.com/in/soysergiogonza-frontend/" alt="LinkedIn Badge">
 <a href="https://twitter.com/soysergiogonza">
 <img src="https://img.shields.io/badge/-Sergio González Sánchez-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/soysergiogonza" alt="Twitter Badge">
 </a>
+
 ## Sobre mí
 Soy un desarrollador apasionado por la tecnología y siempre estoy buscando aprender algo nuevo.
 
