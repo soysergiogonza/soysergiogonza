@@ -16,19 +16,19 @@
 ## About Me
 
 👋 Hello! \
-I am a Professional Technician in Computer Systems with +2 years of experience as a Frontend Developer. I have developed
-skills in the creation of components, applications, web pages, database connections, user authentication, and
-interacting with API services. Results-oriented with a strong capacity for analysis, organization, problem-solving, and
-innovation. I firmly believe in the power of teamwork to achieve ambitious goals and deliver exceptional outcomes.
-Moreover, I'm passionate about teaching and am committed to inspiring learning that fosters the development of future
-generations of developers and IT specialists.
+I am a FullStack Developer with experience in Frontend technologies such as JavaScript, TypeScript, React.js, Next.js,
+Backend technologies like Node.js and Express, and databases like MongoDB and MySQL. Throughout my career, I have had
+the opportunity to work in agile teams using the SCRUM methodology, which has allowed me to develop high-quality web
+products.
 
-I specialize in Frontend Development using technologies like React, Next, JavaScript, and TypeScript. I possess
-knowledge in integrating API Rest, Axios API, GraphQL, state management with Redux, React-Query, and conducting unit
-tests with Playwright. I aspire to become an expert in Frontend Architecture and, in line with this vision, I am
-continuously studying Technology in Analysis and Software Development at SENA. With a particular focus on Software
-Architecture and Design Patterns, I ensure that every project upholds clean architecture, guaranteeing that each
-component functions as expected.
+In previous experiences I was creating components, applications, and web pages using other technologies to manage API
+REST integrations, state management, and E2E Testing.
+Committed to Clean Architecture and Design Patterns.
+I'm studying
+Technology in Analysis and Software Development
+at [SENA](https://www.linkedin.com/school/servicio-nacional-de-aprendizaje-sena-/) to further enhance my skills.
+Passionate about education and innovation, for my future, I want to inspire learning to the people and contribute to the
+future of Software Architecture Development.
 
 ### Skills:
 
@@ -76,7 +76,7 @@ Why Choose Me?
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
+![ESLint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
