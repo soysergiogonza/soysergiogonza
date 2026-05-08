@@ -1,82 +1,54 @@
-  <a href="https://www.sergiogonzalez.tech/">
+<a href="https://www.sergiogonzalez.tech/">
     <img src="play.svg" alt="Banner Image">
   </a>
 
 <div>
 <a href="https://www.linkedin.com/in/soysergiogonza/" target="_blank">
-	<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
 </a>
 
-
 <a href="https://twitter.com/soysergiogonza" target="_blank">
-	<img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge">
 </a>
 </div>
 
 ## About Me
 
-👋 Hello! \
-I am a FullStack Developer with experience in Frontend technologies such as JavaScript, TypeScript, React.js, Next.js,
-Backend technologies like Node.js and Express, and databases like MongoDB and MySQL. Throughout my career, I have had
-the opportunity to work in agile teams using the SCRUM methodology, which has allowed me to develop high-quality web
-products.
+👋 ¡Hola! Soy **Sergio Gonzalez**, Desarrollador Frontend Semi-Senior con un enfoque profundo en la arquitectura de software y el ecosistema **Angular (v19+)**. 
 
-In previous experiences I was creating components, applications, and web pages using other technologies to manage API
-REST integrations, state management, and E2E Testing.
-Committed to Clean Architecture and Design Patterns.
-I'm studying
-Technology in Analysis and Software Development
-at [SENA](https://www.linkedin.com/school/servicio-nacional-de-aprendizaje-sena-/) to further enhance my skills.
-Passionate about education and innovation, for my future, I want to inspire learning to the people and contribute to the
-future of Software Architecture Development.
+Mi experiencia se centra en la construcción de sistemas robustos y escalables. Actualmente, lidero técnicamente el desarrollo de plataformas críticas como el Sistema de Información Académica (SIA) y Bienestar (SIB), donde aplico patrones de diseño avanzados y arquitecturas de micro-frontends para optimizar la experiencia de miles de usuarios.
 
-### Skills:
+Me apasiona la **Arquitectura Limpia**, la reactividad moderna con **Signals** y la gestión eficiente de monorepos. Más que escribir código, busco diseñar soluciones que sean mantenibles y técnicamente rigurosas.
 
-💻 Frontend: React, Next, JavaScript, TypeScript\
-📦 Package Managers: NPM, Yarn\
-🔀 Routing: React-Router DOM, Next.js Router\
-📚 CSS Libraries: TailwindCSS, Material-UI, Styled-Components, Chakra-UI, Bootstrap\
-🌐 API Integration: REST, Axios\
-🚀 State Management: Redux, React-Query\
-🧪 Testing: Playwright, Jest, React-Testing-Library\
-🏗️ Architecture: Clean Architecture, Design Patterns\
+### 🛠️ Core Stack:
 
-### Professional Highlights:
+*   **Frontend:** Angular 19+, TypeScript, RxJS, Signals, Resource API.
+*   **Architecture & Tooling:** Nx Monorepos, Micro-frontends, Clean Architecture.
+*   **State Management:** TanStack Query, Signals State.
+*   **Testing:** Playwright, Jest.
+*   **UI/UX:** TailwindCSS, Angular Material, PrimeNG.
 
-🛠️ Developed a wide range of components, applications, and web pages.\
-🌐 Integrated API services for dynamic and interactive applications.\
-🎓 Currently pursuing continuous learning in Technology in Analysis and Software Development
-at [SENA](https://www.linkedin.com/school/servicio-nacional-de-aprendizaje-sena-/), with a focus on Software
-Architecture.\
+### 🚀 Featured Projects:
 
-Freelance Experience:
+*   **SIA, SIC & SIB:** Desarrollo desde cero de sistemas core para gestión académica y de certificados.
+*   **VITTAE:** Aplicación B2B diseñada para la gestión estratégica de hojas de vida.
+*   **Bookerify:** Sistema de gestión de reservas optimizado para escalabilidad.
 
-### 🚀 Side Project:
+### 📚 Learning & Community:
 
-Founder of a project dedicated to guiding and advising Software Development students. Primarily
-focused on Bootcamp students and those studying Software Development Techniques or Technologies.\
+Soy un firme creyente en el aprendizaje continuo y la divulgación técnica. A través de **Laboriosos**, busco humanizar y explicar diversas profesiones mediante contenido creativo, mientras sigo profundizando en ingeniería de software para elevar mis estándares de arquitectura.
 
-**Mission:**
-Empowering the next generation of developers by providing tailored guidance, teaching relevant technologies, and
-ensuring a supportive learning environment.
+---
 
-Why Choose Me?
+### Why work with me?
 
-🔍 Results-oriented with a knack for problem-solving and innovation.
-🤝 Firm believer in the power of teamwork to achieve ambitious goals.
-🎓 Passionate about teaching and committed to foster the development of future IT specialists.
+🔍 **Rigurosidad Técnica:** No solo implemento; cuestiono suposiciones y optimizo la lógica de negocio.
+🤝 **Socio Intelectual:** Enfocado en el éxito del producto mediante el desafío constructivo y la excelencia técnica.
+🏗️ **Visión Escalable:** Experto en transformar requerimientos complejos en estructuras de código modulares.
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
-
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
-
-![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
-![ESLint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
-![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Nx](https://img.shields.io/badge/-Nx-143055?style=flat-square&logo=nx&logoColor=white)
+![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
